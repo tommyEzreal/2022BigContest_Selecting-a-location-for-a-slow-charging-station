@@ -5,11 +5,11 @@
 
 
 ## Team 
--
--
--
--
--
+- Seo Kwang Wook 
+- Lee Ji Hwan
+- Ryu Seung Gi 
+- Lee Ju Yeong 
+- Yoon Hye Ju
 
 
 ## 분석 배경
